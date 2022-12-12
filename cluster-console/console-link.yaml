@@ -5,7 +5,7 @@ metadata:
 spec:
   href: 'https://www.thsrc.com.tw/'
   location: ApplicationMenu
-  text: CAJ speaker01 Menu - THSRC website
+  text: CAJ student06 Menu - THSRC website
   applicationMenu:
-    section: CAJ speaker01 Menu - THSRC website
+    section: CAJ student06 Menu - THSRC website
     imageURL: https://www.thsrc.com.tw/Event/Logo.svg
